@@ -1,0 +1,40 @@
+{
+	"respCode": "0000",
+	"rows": [
+		{
+			"reqNo": 9012345678,
+			"crtTimeStr": "2019-10-01 12:20:48",
+			"submitTypeStr": "买手团",
+			"submitter": "宝陈荣",
+			"auditStatusStr": "待审批"
+		},
+		{
+			"reqNo": 7890123456,
+			"crtTimeStr": "2019-10-01 12:20:48",
+			"submitTypeStr": "北京",
+			"submitter": "陈荣宝",
+			"auditStatusStr": "待审批"
+		},
+		{
+			"reqNo": 4567812390,
+			"crtTimeStr": "2019-10-01 12:20:48",
+			"submitTypeStr": "河南",
+			"submitter": "荣陈宝",
+			"auditStatusStr": "待审批"
+		},
+		{
+			"reqNo": 6781234590,
+			"crtTimeStr": "2019-10-01 12:20:48",
+			"submitTypeStr": "买手团",
+			"submitter": "宝荣陈",
+			"auditStatusStr": "待审批"
+		},
+		{
+			"reqNo": 5678123490,
+			"crtTimeStr": "2019-10-01 12:20:48",
+			"submitTypeStr": "上海",
+			"submitter": "荣陈宝",
+			"auditStatusStr": "待审批"
+		}
+	]
+}

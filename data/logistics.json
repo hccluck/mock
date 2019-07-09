@@ -1,0 +1,77 @@
+{
+	"respCode": "0000",
+	"rows": [
+		{
+			"id": 1,
+			"supplierName": "北京供应商",
+			"supplierFullName": "河南",
+			"skuFullName": "华为荣耀",
+			"skuName": "iPhone 8",
+			"brandCode": "苹果",
+			"model": "128G",
+			"color": "黑色",
+			"count": 100,
+			"shipCount": 90
+		},
+		{
+			"id": 2,
+			"supplierName": "上海",
+			"supplierFullName": "河南",
+			"skuFullName": "iPhone 8 plus",
+			"skuName": "iPhone 8",
+			"brandCode": "苹果",
+			"model": "128G",
+			"color": "黑色",
+			"count": 100,
+			"shipCount": 80
+		},
+		{
+			"id": 3,
+			"supplierName": "江苏",
+			"supplierFullName": "河南",
+			"skuFullName": "iPhone 8 plus",
+			"skuName": "iPhone 8",
+			"brandCode": "苹果",
+			"model": "128G",
+			"color": "黑色",
+			"count": 100,
+			"shipCount": 99
+		},
+		{
+			"id": 4,
+			"supplierName": "浙江",
+			"supplierFullName": "河南",
+			"skuFullName": "iPhone 8 plus",
+			"skuName": "iPhone 8",
+			"brandCode": "苹果",
+			"model": "128G",
+			"color": "黑色",
+			"count": 100,
+			"shipCount": 50
+		},
+		{
+			"id": 5,
+			"supplierName": "河南",
+			"supplierFullName": "河南",
+			"skuFullName": "iPhone 8 plus",
+			"skuName": "iPhone 8",
+			"brandCode": "苹果",
+			"model": "128G",
+			"color": "黑色",
+			"count": 100,
+			"shipCount": 50
+		},
+		{
+			"id": 6,
+			"supplierName": "深圳供应商",
+			"supplierFullName": "河南",
+			"skuFullName": "小米",
+			"skuName": "iPhone 8",
+			"brandCode": "苹果",
+			"model": "128G",
+			"color": "黑色",
+			"count": 100,
+			"shipCount": 50
+		}
+	]
+}

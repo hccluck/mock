@@ -1,0 +1,17 @@
+{
+	"respCode": "0000",
+	"respDesc": "响应描述",
+	"currentPage": 1,
+	"total": 100,
+	"rows": [
+		{
+      "datetime": "2018-10-12",
+      "sex": "男",
+      "age": "20-30岁",
+      "all": 100,
+      "allVIP": 80,
+      "avg": 90
+    }
+    
+	]
+}

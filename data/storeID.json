@@ -1,0 +1,24 @@
+{
+  "storeID": [
+    {
+      "value": "bj",
+      "name": "北京店"
+    },
+    {
+      "value": "sh",
+      "name": "上海店"
+    },
+    {
+      "value": "gz",
+      "name": "广州店"
+    },
+    {
+      "value": "sz",
+      "name": "深圳店"
+    },
+    {
+      "value": "jt",
+      "name": "京东淘宝自营店"
+    }
+  ]
+}

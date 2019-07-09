@@ -1,0 +1,218 @@
+{
+  "bj": {
+    "sc": [
+      {
+        "value": "1",
+        "name": "self-cashier1111"
+      },
+      {
+        "value": "2",
+        "name": "self-cashier2222"
+      },
+      {
+        "value": "3",
+        "name": "self-cashier3333"
+      },
+      {
+        "value": "4",
+        "name": "self-cashier4444"
+      }
+    ],
+    "sp": [
+      {
+        "value": "1",
+        "name": "smart-platform1111"
+      },
+      {
+        "value": "2",
+        "name": "smart-platform1111"
+      },
+      {
+        "value": "3",
+        "name": "smart-platform1111"
+      }
+    ],
+    "is": [
+      {
+        "value": "1",
+        "name": "interactive-screen1111"
+      },
+      {
+        "value": "2",
+        "name": "interactive-screen1111"
+      }
+    ]
+  },
+  "sh": {
+    "sc": [
+      {
+        "value": "1",
+        "name": "self-cashier5432"
+      },
+      {
+        "value": "2",
+        "name": "self-cashier9876"
+      },
+      {
+        "value": "3",
+        "name": "self-cashier3533"
+      }
+    ],
+    "sp": [
+      {
+        "value": "1",
+        "name": "smart-platform1111"
+      },
+      {
+        "value": "2",
+        "name": "smart-platform1111"
+      },
+      {
+        "value": "3",
+        "name": "smart-platform1111"
+      }
+    ],
+    "is": [
+      {
+        "value": "1",
+        "name": "interactive-screen1111"
+      },
+      {
+        "value": "2",
+        "name": "interactive-screen1111"
+      }
+    ]
+  },
+  "gz": {
+    "sc": [
+      {
+        "value": "1",
+        "name": "self-cashier2334"
+      },
+      {
+        "value": "2",
+        "name": "self-cashier8636"
+      },
+      {
+        "value": "3",
+        "name": "self-cashier3262"
+      },
+      {
+        "value": "4",
+        "name": "self-cashier6741"
+      },
+      {
+        "value": "5",
+        "name": "self-cashier5262"
+      }
+    ],
+    "sp": [
+      {
+        "value": "1",
+        "name": "smart-platform1111"
+      },
+      {
+        "value": "2",
+        "name": "smart-platform1111"
+      },
+      {
+        "value": "3",
+        "name": "smart-platform1111"
+      }
+    ],
+    "is": [
+      {
+        "value": "1",
+        "name": "interactive-screen1111"
+      },
+      {
+        "value": "2",
+        "name": "interactive-screen1111"
+      }
+    ]
+  },
+  "sz": {
+    "sc": [
+      {
+        "value": "1",
+        "name": "self-cashier3572"
+      },
+      {
+        "value": "2",
+        "name": "self-cashier8462"
+      },
+      {
+        "value": "3",
+        "name": "self-cashier7482"
+      }
+    ],
+    "sp": [
+      {
+        "value": "1",
+        "name": "smart-platform1111"
+      },
+      {
+        "value": "2",
+        "name": "smart-platform1111"
+      },
+      {
+        "value": "3",
+        "name": "smart-platform1111"
+      }
+    ],
+    "is": [
+      {
+        "value": "1",
+        "name": "interactive-screen1111"
+      },
+      {
+        "value": "2",
+        "name": "interactive-screen1111"
+      }
+    ]
+  },
+  "jt": {
+    "sc": [
+      {
+        "value": "1",
+        "name": "self-cashier8373"
+      },
+      {
+        "value": "2",
+        "name": "self-cashier6374"
+      },
+      {
+        "value": "3",
+        "name": "self-cashier9215"
+      },
+      {
+        "value": "4",
+        "name": "self-cashier7282"
+      }
+    ],
+    "sp": [
+      {
+        "value": "1",
+        "name": "smart-platform1111"
+      },
+      {
+        "value": "2",
+        "name": "smart-platform1111"
+      },
+      {
+        "value": "3",
+        "name": "smart-platform1111"
+      }
+    ],
+    "is": [
+      {
+        "value": "1",
+        "name": "interactive-screen1111"
+      },
+      {
+        "value": "2",
+        "name": "interactive-screen1111"
+      }
+    ]
+  }
+}

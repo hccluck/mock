@@ -1,0 +1,60 @@
+{
+	"respCode": "0000",
+	"rows": [
+		{
+			"reqNo": 9012345678,
+			"crtTimeStr": "2019-10-01 12:20:48",
+			"submitTypeStr": "省分",
+			"provinceStr":"北京",
+			"submitter": "宝陈荣",
+			"auditStatusStr": "已通过",
+			"supplierId": 12345,
+			"skuId": 54321,
+			"skuNo": 987650
+		},
+		{
+			"reqNo": 4567890123,
+			"crtTimeStr": "2019-10-01 12:20:48",
+			"submitTypeStr": "买手团",
+			"provinceStr":"上海",
+			"submitter": "宝陈荣",
+			"auditStatusStr": "待审批",
+			"supplierId": 12345,
+			"skuId": 54321,
+			"skuNo": 987650
+		},
+		{
+			"reqNo": 6790123458,
+			"crtTimeStr": "2019-10-01 12:20:48",
+			"submitTypeStr": "省分",
+			"provinceStr":"北京",
+			"submitter": "宝陈荣",
+			"auditStatusStr": "已驳回",
+			"supplierId": 12345,
+			"skuId": 54321,
+			"skuNo": 987650
+		},
+		{
+			"reqNo": 4567890123,
+			"crtTimeStr": "2019-10-01 12:20:48",
+			"submitTypeStr": "省分",
+			"provinceStr":"浙江",
+			"submitter": "宝陈荣",
+			"auditStatusStr": "已通过",
+			"supplierId": 12345,
+			"skuId": 54321,
+			"skuNo": 987650
+		},
+		{
+			"reqNo": 3014925678,
+			"crtTimeStr": "2019-10-01 12:20:48",
+			"submitTypeStr": "买手团",
+			"provinceStr":"深圳",
+			"submitter": "宝陈荣",
+			"auditStatusStr": "已通过",
+			"supplierId": 12345,
+			"skuId": 54321,
+			"skuNo": 987650
+		}
+	]
+}
