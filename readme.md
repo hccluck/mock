@@ -2,4 +2,4 @@
 
 ##### npm i
 
-##### node run dev || npm start || npm run serve
+##### npm run dev || npm start || npm run serve
