@@ -1,0 +1,12 @@
+{
+    "/deviceID": "/deviceID.json",
+    "/goods": "/goods.json",
+    "/logistics": "/logistics.json",
+    "/progress": "/progress.json",
+    "/storeID": "/storeID.json",
+    "/structData": "/structData.json",
+    "/table": "/table.json",
+    "/user": "/user.json",
+    "/v1/shop": "/v1/shop.json",
+    "/v1/table/data": "/v1/table/data.json"
+}

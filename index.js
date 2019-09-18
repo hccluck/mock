@@ -12,12 +12,12 @@ const login = async (ctx, next) => {
   let client = ctx.request.body;
   // console.log(ctx.request.body);
   await new Promise((resolve, reject) => {
-    fs.readFile("./data/user.json", (err, data) => {
+    fs.readFile("./api/user.json", (err, data) => {
       if (err) throw err;
       users = JSON.parse(data.toString());
       let username = client.username;
       if(users[username]){
-        if (client.password === users[username].password && client.code === users[username].code) {
+        if (client.password == users[username].password && client.code == users[username].code) {
           res = {"loginStatus": true}
         } else {
           res = {"loginStatus": false}
@@ -36,7 +36,7 @@ const logistics = async (ctx, next) => {
   let res = {};
   // let page = ctx.request.body.page
   await new Promise((resolve, reject)=>{
-    fs.readFile("./data/logistics.json", (err, data) => {
+    fs.readFile("./api/logistics.json", (err, data) => {
       if (err) throw err;
       res = JSON.parse(data)
       ctx.set('Content-Type', 'application/json');
@@ -50,7 +50,7 @@ const structData = async (ctx, next) => {
   let res = {};
   console.log("response...");
   await new Promise((resolve, reject)=>{
-    fs.readFile("./data/structData.json", (err, data) => {
+    fs.readFile("./api/structData.json", (err, data) => {
       if (err) throw err;
       res = JSON.parse(data)
       ctx.set('Content-Type', 'application/json');
